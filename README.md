@@ -4,10 +4,7 @@ Tổng hợp Sticker từ Facebook, Zalo,...
 
 ## Facebook Sticker
 
--   Production
-    ` https://cdn.githubraw.com/havaem/StickerCollection/main/FacebookSticker.json`
--   Dev
-    ` https://githubraw.com/havaem/StickerCollection/main/FacebookSticker.json`
+` https://cdn.jsdelivr.net/gh/havaem/StickerCollection@1cc372ce80c0c874ccb7c842548552160f7cc10d/FacebookSticker.json`
 
 ## Zalo Sticker
 
