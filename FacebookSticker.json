@@ -199,11 +199,11 @@
 	},
 	{
 		"name": "Băng Đảng Mentori",
-		"icon": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/main.png",
+		"icon": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/main.png",
 		"data": [
 			{
 				"id": 1,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/1.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(1).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -211,7 +211,7 @@
 			},
 			{
 				"id": 2,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/2.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(2).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -219,7 +219,7 @@
 			},
 			{
 				"id": 3,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/3.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(3).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -227,7 +227,7 @@
 			},
 			{
 				"id": 4,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/4.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(4).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -235,7 +235,7 @@
 			},
 			{
 				"id": 5,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/5.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(5).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -243,7 +243,7 @@
 			},
 			{
 				"id": 6,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/6.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(6).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -251,7 +251,7 @@
 			},
 			{
 				"id": 7,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/7.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(7).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -259,7 +259,7 @@
 			},
 			{
 				"id": 8,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/8.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(8).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -267,7 +267,7 @@
 			},
 			{
 				"id": 9,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/9.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(9).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -275,7 +275,7 @@
 			},
 			{
 				"id": 10,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/10.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(10).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -283,7 +283,7 @@
 			},
 			{
 				"id": 11,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/11.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(11).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -291,7 +291,7 @@
 			},
 			{
 				"id": 12,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/12.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(12).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -299,7 +299,7 @@
 			},
 			{
 				"id": 13,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/13.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(13).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -307,7 +307,7 @@
 			},
 			{
 				"id": 14,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/14.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(14).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -315,7 +315,7 @@
 			},
 			{
 				"id": 15,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/15.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(15).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -323,7 +323,7 @@
 			},
 			{
 				"id": 16,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/16.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(16).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -331,7 +331,7 @@
 			},
 			{
 				"id": 17,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/17.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(17).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -339,7 +339,7 @@
 			},
 			{
 				"id": 18,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/18.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(18).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -347,7 +347,7 @@
 			},
 			{
 				"id": 19,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/19.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(19).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -355,7 +355,7 @@
 			},
 			{
 				"id": 20,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/20.png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/BangDangMentori/(20).png",
 				"frame_count": 12,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -369,7 +369,7 @@
 		"data": [
 			{
 				"id": 1,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(1).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(1).png",
 				"frame_count": 4,
 				"frame_rate": 83,
 				"frames_per_column": 2,
@@ -377,7 +377,7 @@
 			},
 			{
 				"id": 2,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(2).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(2).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -385,7 +385,7 @@
 			},
 			{
 				"id": 3,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(3).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(3).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -393,7 +393,7 @@
 			},
 			{
 				"id": 4,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(4).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(4).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -401,7 +401,7 @@
 			},
 			{
 				"id": 5,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(5).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(5).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -409,7 +409,7 @@
 			},
 			{
 				"id": 6,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(6).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(6).png",
 				"frame_count": 2,
 				"frame_rate": 83,
 				"frames_per_column": 2,
@@ -417,7 +417,7 @@
 			},
 			{
 				"id": 7,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(7).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(7).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -425,7 +425,7 @@
 			},
 			{
 				"id": 8,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(8).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(8).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -433,7 +433,7 @@
 			},
 			{
 				"id": 9,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(9).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(9).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -441,7 +441,7 @@
 			},
 			{
 				"id": 10,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(10).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(10).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -449,7 +449,7 @@
 			},
 			{
 				"id": 11,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(11).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(11).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -457,7 +457,7 @@
 			},
 			{
 				"id": 12,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(12).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(12).png",
 				"frame_count": 20,
 				"frame_rate": 83,
 				"frames_per_column": 5,
@@ -465,7 +465,7 @@
 			},
 			{
 				"id": 13,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(13).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(13).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -473,7 +473,7 @@
 			},
 			{
 				"id": 14,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(14).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(14).png",
 				"frame_count": 9,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -481,7 +481,7 @@
 			},
 			{
 				"id": 15,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(15).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(15).png",
 				"frame_count": 8,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -489,7 +489,7 @@
 			},
 			{
 				"id": 16,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(16).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(16).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -497,7 +497,7 @@
 			},
 			{
 				"id": 17,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(17).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(17).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -505,7 +505,7 @@
 			},
 			{
 				"id": 18,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(18).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(18).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -513,7 +513,7 @@
 			},
 			{
 				"id": 19,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(19).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(19).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -521,7 +521,7 @@
 			},
 			{
 				"id": 20,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(20).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(20).png",
 				"frame_count": 6,
 				"frame_rate": 83,
 				"frames_per_column": 3,
@@ -529,7 +529,7 @@
 			},
 			{
 				"id": 21,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(21).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(21).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -537,7 +537,7 @@
 			},
 			{
 				"id": 22,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(22).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(22).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -545,7 +545,7 @@
 			},
 			{
 				"id": 23,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(23).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(23).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -553,7 +553,7 @@
 			},
 			{
 				"id": 24,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(24).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(24).png",
 				"frame_count": 4,
 				"frame_rate": 83,
 				"frames_per_column": 2,
@@ -561,7 +561,7 @@
 			},
 			{
 				"id": 25,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(25).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(25).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -569,7 +569,7 @@
 			},
 			{
 				"id": 26,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(26).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(26).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -577,7 +577,7 @@
 			},
 			{
 				"id": 27,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(27).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(27).png",
 				"frame_count": 4,
 				"frame_rate": 83,
 				"frames_per_column": 2,
@@ -585,7 +585,7 @@
 			},
 			{
 				"id": 28,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(28).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(28).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -593,7 +593,7 @@
 			},
 			{
 				"id": 29,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(29).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(29).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -601,7 +601,7 @@
 			},
 			{
 				"id": 30,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(30).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(30).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -609,7 +609,7 @@
 			},
 			{
 				"id": 31,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(31).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(31).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -617,7 +617,7 @@
 			},
 			{
 				"id": 32,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(32).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(32).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -625,7 +625,7 @@
 			},
 			{
 				"id": 33,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(33).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(33).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -633,7 +633,7 @@
 			},
 			{
 				"id": 34,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(34).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(34).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -641,7 +641,7 @@
 			},
 			{
 				"id": 35,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(35).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(35).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -649,7 +649,7 @@
 			},
 			{
 				"id": 36,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(36).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(36).png",
 				"frame_count": 2,
 				"frame_rate": 83,
 				"frames_per_column": 2,
@@ -657,7 +657,7 @@
 			},
 			{
 				"id": 37,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(37).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(37).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -665,7 +665,7 @@
 			},
 			{
 				"id": 38,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(38).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(38).png",
 				"frame_count": 1,
 				"frame_rate": 83,
 				"frames_per_column": 1,
@@ -673,7 +673,7 @@
 			},
 			{
 				"id": 39,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(39).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(39).png",
 				"frame_count": 2,
 				"frame_rate": 83,
 				"frames_per_column": 2,
@@ -681,7 +681,7 @@
 			},
 			{
 				"id": 40,
-				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/QoobeeAgapi/(28).png",
+				"src": "https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/Mugsy/(40).png",
 				"frame_count": 10,
 				"frame_rate": 83,
 				"frames_per_column": 4,
