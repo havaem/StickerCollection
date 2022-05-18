@@ -4,7 +4,7 @@ Tổng hợp Sticker từ Facebook, Zalo,...
 
 ## Facebook Sticker
 
-` https://cdn.jsdelivr.net/gh/havaem/StickerCollection@1cc372ce80c0c874ccb7c842548552160f7cc10d/FacebookSticker.json`
+` [https://cdn.jsdelivr.net/gh/havaem/StickerCollection@1cc372ce80c0c874ccb7c842548552160f7cc10d/FacebookSticker.json](https://cdn.jsdelivr.net/gh/havaem/StickerCollection/FacebookSticker.json)`
 
 ## Zalo Sticker
 
