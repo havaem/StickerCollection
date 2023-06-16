@@ -8,7 +8,7 @@ listFolderName.forEach(folderName => {
     const listFileName = fs.readdirSync(`${filePath}/${folderName}/`);
     data.push({
         name: folderName,
-        icon: listFileName[0],
+        icon: `https://cdn.jsdelivr.net/gh/havaem/StickerCollection@latest/images/${folderName.replaceAll(" ", "%20")}/` + listFileName[0],
         data: [
             ...listFileName.map((fileName, id) => ({
                 id,
